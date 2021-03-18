@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/notification_sync.dir/notification_sync.c.o  -o notification_sync -lgattlib -lglib-2.0 -lgattlib -lglib-2.0 -lglib-2.0 -lpcre -lpthread 

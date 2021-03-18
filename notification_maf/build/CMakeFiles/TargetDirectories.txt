@@ -1,0 +1,3 @@
+/home/pi/Thingy52_BLE/notification_maf/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Thingy52_BLE/notification_maf/build/CMakeFiles/notification_maf.dir
+/home/pi/Thingy52_BLE/notification_maf/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/notification_maf.dir/notification_maf.c.o  -o notification_maf -lgattlib -lglib-2.0 -lgattlib -lglib-2.0 -lglib-2.0 -lpcre -lpthread 
