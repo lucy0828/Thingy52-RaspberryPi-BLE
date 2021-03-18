@@ -26,7 +26,7 @@ make
 ## notification_maf
 This project connects multiple Thingy52 with Raspberry Pi to get level of humidity sensor using moving average filter.
 ```
-cd <notification_sync-root>
+cd <notification_maf-root>
 mkdir build && cd build
 cmake ..
 make
