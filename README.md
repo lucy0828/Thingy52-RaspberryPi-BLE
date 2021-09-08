@@ -1,5 +1,5 @@
 # Thingy52-RaspberryPi-BLE
-This project is based on [labapart gattlib](https://github.com/labapart/gattlib) to connect Thingy52 and Raspberry Pi.
+This project is based on [labapart gattlib](https://github.com/labapart/gattlib) to connect Thingy52 and Raspberry Pi. It creates multiple threads to connect with multiple Thiny:52 boards and collect environment sensor data with corresponding date and time.
 
 ## Prerequisition
 You must download [Gattlib](https://github.com/labapart/gattlib) ARM 32-bit DEB 
